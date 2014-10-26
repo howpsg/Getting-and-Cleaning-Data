@@ -1,4 +1,4 @@
-## START
+## START 
 ##
 ## Getting and Cleaning Data Course Project
 ##
