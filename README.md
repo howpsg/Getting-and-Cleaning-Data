@@ -16,7 +16,7 @@ Obtained and unzipped the source files. Modify the run_analysis.R file at the pl
 
 ##Project Summary
 
-The following is a summary description of the project instructions
+Following is a summary description of the project instructions
 
 Create a R script called run_analysis.R that does the following. 
 1. Merges the training and the test sets to create one data set. 
